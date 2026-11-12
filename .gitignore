@@ -1,0 +1,13 @@
+vendor/
+.env*
+!.env.example
+config.local.php
+*.log
+*.sql
+*.sql.gz
+*.db
+*.sqlite*
+*.dump
+*.pem
+*.key
+uploads/
